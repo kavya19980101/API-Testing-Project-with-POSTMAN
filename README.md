@@ -12,7 +12,7 @@
 ##### 3)Payload/POST Request using JSON Data
 ##### 4)Each Operation created with different API Testcase Request and Validation is done through ChaiJS Assertion(Should, Expect, Assert)
 ##### 6)Basic Authuntication and Cookie type Token Authentication handled for Update and Delete the Booking Details
-##### 7)For passing the data/API Chaining is used(Global Variables/Environmental Variables/Collection level Variables)
-##### 8)Newman CLI is Report is Generated
+##### 7)For passing the data/API Chaining is Used(Global Variables/Environmental Variables/Collection level Variables)
+##### 8)Report Generated Using Newman CLI commands
 # <img width="588" alt="image" src="https://github.com/kavya19980101/API-Testing-Project-with-POSTMAN/assets/106023304/0f22537c-0973-4130-88de-e45a40076f86">
 
