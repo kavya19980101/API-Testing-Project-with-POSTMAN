@@ -1,6 +1,6 @@
 # RestFul API Testing CURD Operation Using 
 ## POSTMAN API TESTING PROJECT 1
-1)From Creating Collection of each CURD Operation(GET, PUT PATCH, POST, DELETE, HEAD)
+|1)From Creating Collection of each CURD Operation(GET, PUT PATCH, POST, DELETE, HEAD)|
 >Fetching a Booking Details(GET)
 >Fetching a Booking Details with different Endpoints(Path and Query URL)
 >Creating new Booking details(POST)
